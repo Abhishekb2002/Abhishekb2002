@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 💼 Working as a **Java Developer** at **GrowingFlowers Software Solutions LLP**, Pune
+- **Java Developer** 
 - 🌱 Currently deep-diving into **Spring Boot**, **DevOps (Linux, Shell Scripting)**, and **System Design**
 - 🧠 Passionate about **Data Structures & Algorithms** — solved 100+ problems across Arrays, DP, Graphs, Trees & more
 - 🌐 Built my **personal portfolio website** hosted on GitHub Pages
