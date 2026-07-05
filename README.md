@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Bhosale</h1>
+<!-- <h1 align="center">Hi 👋, I'm Abhishek Bhosale</h1>
 <h3 align="center">☕ Java Developer | Backend Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
@@ -117,4 +117,4 @@
   <img src="https://komarev.com/ghpvc/?username=Abhishekb2002&label=Profile%20Views&color=2196F3&style=flat" alt="Abhishekb2002" />
 </p>
 
-<p align="center">⭐ <i>If you find my work helpful, consider starring my repos!</i> ⭐</p>
+<p align="center">⭐ <i>If you find my work helpful, consider starring my repos!</i> ⭐</p> -->
